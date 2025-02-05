@@ -4,3 +4,5 @@
 ```
 $ riiice
 ```
+- [ ] chopped rice
+- [ ] no meat
